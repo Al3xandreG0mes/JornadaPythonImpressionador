@@ -1,8 +1,8 @@
-forma 1 de se fazer essa soma utilizando fstring
+#forma 1 de se fazer essa soma utilizando fstring
 num1 = int(input('Digite o primeiro numero pra soma: '))
 num2 = int(input('Digite o segundo numero pra soma: '))
 soma = num1 + num2
-print(f'resultado da soma: {soma}\n')3
+print(f'resultado da soma: {soma}\n')
 
 #forma2 de faazer: 
 
